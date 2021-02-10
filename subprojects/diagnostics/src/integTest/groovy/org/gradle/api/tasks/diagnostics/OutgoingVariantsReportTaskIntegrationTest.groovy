@@ -360,6 +360,9 @@ Variant default (l)
 --------------------------------------------------
 Description = Configuration for default artifacts.
 
+Artifacts
+    - build/libs/myLib-1.0.jar (artifactType = jar)
+
 --------------------------------------------------
 Variant runtimeElements
 --------------------------------------------------
